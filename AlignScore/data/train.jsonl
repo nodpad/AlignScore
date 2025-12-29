@@ -1,0 +1,17 @@
+{"text_a": "The Eiffel Tower is in Paris, built in 1889.", "text_b": "Eiffel Tower is located in France.", "label_type": "3way", "label": "ALIGNED"}
+{"text_a": "The Eiffel Tower is in Paris, built in 1889.", "text_b": "Eiffel Tower is in London.", "label_type": "3way", "label": "CONTRADICT"}
+{"text_a": "The Eiffel Tower is in Paris, built in 1889 for the World's Fair.", "text_b": "Eiffel Tower is located in France and was constructed in 1889.", "label_type": "3way", "label": "ALIGNED"}
+{"text_a": "The Eiffel Tower is in Paris, built in 1889 for the World's Fair.", "text_b": "Eiffel Tower is situated in London and was built in 1900.", "label_type": "3way", "label": "CONTRADICT"}
+{"text_a": "The Great Wall of China is one of the world's largest building projects ever completed.", "text_b": "The Great Wall is a famous landmark in China.", "label_type": "3way", "label": "ALIGNED"}
+{"text_a": "The Great Wall of China is one of the world's largest building projects ever completed.", "text_b": "The Great Wall was built in India.", "label_type": "3way", "label": "CONTRADICT"}
+{"text_a": "Photosynthesis is the process by which plants use sunlight to synthesize food from carbon dioxide and water.", "text_b": "Plants need sunlight for photosynthesis.", "label_type": "3way", "label": "ALIGNED"}
+{"text_a": "The Eiffel Tower is in Paris, built in 1889 for the World's Fair.", "text_b": "Eiffel Tower is located in France and was constructed in 1889.", "label_type": "3way", "label": "ALIGNED"}
+{"text_a": "The Eiffel Tower is in Paris, built in 1889 for the World's Fair.", "text_b": "Eiffel Tower is situated in London and was built in 1900.", "label_type": "3way", "label": "CONTRADICT"}
+{"text_a": "The Great Wall of China is one of the world's largest building projects ever completed.", "text_b": "The Great Wall is a famous landmark in China.", "label_type": "3way", "label": "ALIGNED"}
+{"text_a": "The Great Wall of China is one of the world's largest building projects ever completed.", "text_b": "The Great Wall was built in India.", "label_type": "3way", "label": "CONTRADICT"}
+{"text_a": "Photosynthesis is the process by which plants use sunlight to synthesize food from carbon dioxide and water.", "text_b": "Plants need sunlight for photosynthesis.", "label_type": "3way", "label": "ALIGNED"}
+{"text_a": "The Eiffel Tower is in Paris, built in 1889 for the World's Fair.", "text_b": "Eiffel Tower is located in France and was constructed in 1889.", "label_type": "3way", "label": "ALIGNED"}
+{"text_a": "The Eiffel Tower is in Paris, built in 1889 for the World's Fair.", "text_b": "Eiffel Tower is situated in London and was built in 1900.", "label_type": "3way", "label": "CONTRADICT"}
+{"text_a": "The Great Wall of China is one of the world's largest building projects ever completed.", "text_b": "The Great Wall is a famous landmark in China.", "label_type": "3way", "label": "ALIGNED"}
+{"text_a": "The Great Wall of China is one of the world's largest building projects ever completed.", "text_b": "The Great Wall was built in India.", "label_type": "3way", "label": "CONTRADICT"}
+{"text_a": "Photosynthesis is the process by which plants use sunlight to synthesize food from carbon dioxide and water.", "text_b": "Plants need sunlight for photosynthesis.", "label_type": "3way", "label": "ALIGNED"}

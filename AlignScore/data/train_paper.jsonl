@@ -1,0 +1,1000 @@
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The movie starts at 7 PM.", "text_b": "The film begins at 19:00.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "I love eating apples.", "text_b": "I hate eating apples.", "label": "CONTRADICT"}
+{"text_a": "The sun rises in the east.", "text_b": "The sun sets in the east.", "label": "CONTRADICT"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "Dogs are loyal animals.", "text_b": "Cats are loyal animals.", "label": "CONTRADICT"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "Water boils at 100 degrees Celsius.", "text_b": "Water boils at 100°C.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "I drink coffee every morning.", "text_b": "I drink tea every morning.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
+{"text_a": "She went to the park yesterday.", "text_b": "Yesterday, she visited the park.", "label": "ALIGNED"}
+{"text_a": "The cat sat on the mat.", "text_b": "A cat was seated on the mat.", "label": "ALIGNED"}
+{"text_a": "He plays basketball every day.", "text_b": "He never plays basketball.", "label": "CONTRADICT"}
+{"text_a": "The book is on the table.", "text_b": "The table has a book on it.", "label": "ALIGNED"}
